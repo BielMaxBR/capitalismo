@@ -1,37 +1,36 @@
 ## Capitalismo industrial
 
-You can use the [editor on GitHub](https://github.com/BielMaxBR/capitalismo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+O Capitalismo Industrial ou Industrialismo corresponde a segunda fase do capitalismo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ele surge com a Revolução Industrial no século XVIII e se consolida com a Segunda Revolução Industrial em meados do século XIX e início do XX.
 
-### Markdown
+### Características do Capitalismo Industrial
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As principais características do Capitalismo Industrial são:
 
-```markdown
-Syntax highlighted code block
+ - Industrialização e desenvolvimento dos transportes
 
-# Header 1
-## Header 2
-### Header 3
+ - Nova forma de divisão social do trabalho
 
-- Bulleted
-- List
+ - Trabalho assalariado
 
-1. Numbered
-2. List
+ - liberalismo e livre-concorrência
 
-**Bold** and _Italic_ and `Code` text
+ - Intensificação das relações comerciais internacionais
 
-[Link](url) and ![Image](src)
-```
+ - Surgimento da classe operária (proletariado) e dos sindicatos
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ - Supremacia da burguesia industrial
 
-### Jekyll Themes
+ - Crescimento urbano e o desenvolvimento tecnológico
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BielMaxBR/capitalismo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ - Transformação das manufaturas em produtos industrializados
 
-### Support or Contact
+ - Produção em larga escala
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ - Aumento da produção de mercadorias e diminuição dos preços
+
+ - Imperialismo e Globalização
+
+ - Aumento da desigualdade social
+
