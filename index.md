@@ -1,5 +1,7 @@
 ## Capitalismo industrial
 
+![charge](https://viciadosnahistoria.files.wordpress.com/2012/12/charge-capitalismo-revoluc3a7c3a3o-industrial.jpg)
+
 O Capitalismo Industrial ou Industrialismo corresponde a segunda fase do capitalismo.
 
 Ele surge com a Revolução Industrial no século XVIII e se consolida com a Segunda Revolução Industrial em meados do século XIX e início do XX.
